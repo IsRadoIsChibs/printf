@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printf_45 - prints the char 45
+ * printf_percent - prints the char %
  * Return: 1
  */
 int printf_percent(void)
