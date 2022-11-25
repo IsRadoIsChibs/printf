@@ -3,7 +3,6 @@ The aim of the project is to understand the concept of team work and also the co
 
 ---
 # Tasks
-
 These are all the tasks of this project.
 
 ### 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life]
