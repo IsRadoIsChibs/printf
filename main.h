@@ -2,11 +2,11 @@
 #define _MAIN_H
 
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include <stdarg.h>
 #include <limits.h>
 #include <unistd.h>
-#include <string.h>
 /**
  * struct format - match the conversion specifiers for printf
  * @id: type char pointer of the specifier
@@ -23,7 +23,7 @@ int printf_rev(va_list args);
 int printf_rot13(va_list args);
 int printf_int(va_list args);
 int printf_dec(va_list args);
-int printf_45(void);
+int printf_percent(void);
 int printf_char(va_list val);
 int printf_string(va_list val);
 int _putchar(char c);
